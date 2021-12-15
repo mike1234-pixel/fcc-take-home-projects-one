@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-take-home-projects-one/static/css/main.ff40e7b9.css",
+    "main.js": "/fcc-take-home-projects-one/static/js/main.d86a342f.js",
+    "static/js/787.89d1b119.chunk.js": "/fcc-take-home-projects-one/static/js/787.89d1b119.chunk.js",
+    "index.html": "/fcc-take-home-projects-one/index.html",
+    "main.ff40e7b9.css.map": "/fcc-take-home-projects-one/static/css/main.ff40e7b9.css.map",
+    "main.d86a342f.js.map": "/fcc-take-home-projects-one/static/js/main.d86a342f.js.map",
+    "787.89d1b119.chunk.js.map": "/fcc-take-home-projects-one/static/js/787.89d1b119.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff40e7b9.css",
+    "static/js/main.d86a342f.js"
+  ]
+}
